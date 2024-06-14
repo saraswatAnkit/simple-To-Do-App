@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# basic To-Do App using HTML, CSS, React Js
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+this project is comprised of using local Storage, hooks like useState and useEffect.
+
+![Screenshot 2024-06-14 224907](https://github.com/saraswatAnkit/simple-To-Do-App/assets/152775694/93b7311d-6dbf-4a77-a4ef-86d184898d95)
+
 
 ## Available Scripts
 
